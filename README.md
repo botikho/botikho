@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bogdan
+# Hi there 👋 I'm Bogdan
 
 Designer & Developer from Moscow.
 
@@ -15,6 +15,7 @@ Previous:
 
 CV: [botikho.ru (RUS)](https://botikho.ru/docs/about/)
 
+Contact: [@botikho](https://t.me/botikho)
 
 <!--
 **botikho/botikho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
