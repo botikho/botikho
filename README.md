@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Bogdan
+
+Designer & Developer from Moscow.
+
+Currenty working on my private project "Editor" for creating and managing interactive 3d web scenes.
+
+Previous:
+- **Yandex, LLC**. (2019-2022)
+- **Adv Agency Red Keds** (2018-2019)
+- **Mercury Development** (2016-2018)
+
+
+CV: [botikho.ru (RUS)](https://botikho.ru/docs/about/)
+
 
 <!--
 **botikho/botikho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
