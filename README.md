@@ -4,6 +4,9 @@ Designer & Developer from Moscow.
 
 Currenty working on my private project "Editor" for creating and managing interactive 3d web scenes.
 
+Looking for a new team to join.
+
+
 Previous:
 - **Yandex, LLC**. (2019-2022)
 - **Adv Agency Red Keds** (2018-2019)
