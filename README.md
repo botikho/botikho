@@ -2,7 +2,8 @@
 
 Designer & Developer from Moscow.
 
-Currenty working on my private project "Editor" for creating and managing interactive 3d web scenes.
+Currenty working on my private project "Editor" for creating and managing interactive 3d web scenes:
+https://editor.botikho.ru/
 
 Looking for a new team to join.
 
