@@ -14,7 +14,7 @@ Previous:
 - **Mercury Development** (2016-2018)
 
 
-CV: [botikho.ru (RUS)](https://botikho.ru/docs/about/)
+CV: [botikho.ru (RUS)](https://botikho.ru/cv/)
 
 Contact: [@botikho](https://t.me/botikho)
 
