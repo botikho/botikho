@@ -2,14 +2,11 @@
 
 Designer & Developer from Moscow.
 
-Currenty working on my private project "Editor" for creating and managing interactive 3d web scenes:
-https://editor.botikho.ru/
-
-Looking for a new team to join.
-
+Currenty working as marketing projects front-end developer at Yandex 360.
 
 Previous:
-- **Yandex, LLC**. (2019-2022)
+- **Yandex ADV**. (2021-2022)
+- **Yandex GEO**. (2019-2020)
 - **Adv Agency Red Keds** (2018-2019)
 - **Mercury Development** (2016-2018)
 
