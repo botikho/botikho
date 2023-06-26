@@ -5,8 +5,8 @@ Designer & Developer from Moscow.
 Currenty working as marketing projects front-end developer at Yandex 360.
 
 Previous:
-- **Yandex ADV**. (2021-2022)
-- **Yandex GEO**. (2019-2020)
+- **Yandex ADV** (2021-2022)
+- **Yandex GEO** (2019-2020)
 - **Adv Agency Red Keds** (2018-2019)
 - **Mercury Development** (2016-2018)
 
