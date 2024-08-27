@@ -2,7 +2,7 @@
 
 Designer & Developer from Moscow.
 
-Currenty working as marketing projects front-end developer at **Yandex 360**.
+Currenty working as **Yandex 360** marketing projects development tech- and team-leader.
 
 Previous:
 - **Yandex ADV** (2021-2022)
