@@ -2,9 +2,8 @@
 
 Designer & Developer from Moscow.
 
-Currenty working as **Yandex 360** marketing projects development tech- and team-leader.
-
-Previous:
+Career & experience:
+- Currenty (2023-now) working as **Yandex 360** marketing projects development tech- and team-leader.
 - **Yandex ADV** (2021-2022)
 - **Yandex GEO** (2019-2020)
 - **Adv Agency Red Keds** (2018-2019)
